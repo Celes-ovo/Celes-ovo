@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Celes
-- 👀 I’m interested in Machine Learning in medical devices.
+- 👀 I’m interested in Machine Learning in medical projects.
 - 🌱 I’m currently learning python, especially Keras and Pytorch.
 - 💞️ I’m looking to collaborate on several medical projects, kaggle projects, etc.
 
